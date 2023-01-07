@@ -40,11 +40,19 @@ A list of custom resources for your serenade config. Please contribute.
 
 ## Slack
 
+* [serenade/custom-commands](https://github.com/serenadeai/custom-commands/tree/master/applications)
+
 ## MS Teams
+
+* [serenade/custom-commands](https://github.com/serenadeai/custom-commands/tree/master/applications)
 
 ## Vim
 
+* [serenade/custom-commands](https://github.com/serenadeai/custom-commands/tree/master/applications)
+
 ## Zoom
+
+* [serenade/custom-commands](https://github.com/serenadeai/custom-commands/tree/master/applications)
 
 ## VS Code
 
