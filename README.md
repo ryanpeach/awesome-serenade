@@ -23,6 +23,7 @@ A list of custom resources for your serenade config. Please contribute.
   * [Mouse](#Mouse)
   * [Linux](#Linux)
   * [Mac](#Mac)
+    * [Shortcat](#Shortcat)
   * [Ubuntu](#Ubuntu)
   * [Windows](#Windows)
 
@@ -94,6 +95,12 @@ A list of custom resources for your serenade config. Please contribute.
 
 * [serenade/custom-commands](https://github.com/serenadeai/custom-commands/tree/master/applications)
 * [ryanpeach/my-serenade](https://github.com/ryanpeach/my-serenade)
+
+### Shortcat
+
+Useful for clicking almost any button on mac.
+
+* [epenning/shortcat.js](https://gist.github.com/epenning/90a69f0a23ce318e9f7515b53e6b4d2e)
 
 ## Mouse
 
