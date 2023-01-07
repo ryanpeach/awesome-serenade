@@ -6,12 +6,12 @@ A list of custom resources for your serenade config. Please contribute.
 * Applications
   * [Jetbrains](#Jetbrains)
   * [Slack](#Slack)
-  * [MS Teams](<#MS Teams>)
+  * [MS Teams](#MS-Teams)
   * [Terminal](#Terminal)
   * [Vim](#Vim)
   * [Zoom](#Zoom)
-  * [VS Code](<#VS Code>)
-    * [Github Copilot](<##Github Copilot>)
+  * [VS Code](#VS-Code)
+    * [Github Copilot](##Github-Copilot)
 * Languages
   * [JavaScript](#JavaScript)
     * [Serenade](##Serenade)
@@ -56,7 +56,7 @@ A list of custom resources for your serenade config. Please contribute.
 
 * [ryanpeach/my-serenade](https://github.com/ryanpeach/my-serenade)
 
-##Serenade
+## Serenade
 
 * [ryanpeach/my-serenade](https://github.com/ryanpeach/my-serenade)
 
