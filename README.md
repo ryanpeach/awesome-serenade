@@ -1,9 +1,9 @@
 # Awesome Serenade
 A list of custom resources for your serenade config. Please contribute.
 
-# Application Index
+# Index
 
-* Applications
+* [Applications](#Applications)
   * [Jetbrains](#Jetbrains)
   * [Slack](#Slack)
   * [MS Teams](#MS-Teams)
@@ -12,14 +12,14 @@ A list of custom resources for your serenade config. Please contribute.
   * [Zoom](#Zoom)
   * [VS Code](#VS-Code)
     * [Github Copilot](##Github-Copilot)
-* Languages
+* [Languages](#Languages)
   * [JavaScript](#JavaScript)
     * [Serenade](##Serenade)
     * [React](##React)
   * [Python](#Python)
     * [Flask](##Flask)
     * [Django](##Django)
-* System
+* [System](#System)
   * [Mouse](#Mouse)
   * [Linux](#Linux)
   * [Mac](#Mac)
