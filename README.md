@@ -26,72 +26,76 @@ A list of custom resources for your serenade config. Please contribute.
   * [Ubuntu](#Ubuntu)
   * [Windows](#Windows)
 
-# Jetbrains
+# Applications
+
+## Jetbrains
 
 * [serenade/custom-commands](https://github.com/serenadeai/custom-commands/tree/master/applications)
 * [ryanpeach/my-serenade](https://github.com/ryanpeach/my-serenade)
 
-# Terminal
+## Terminal
 
 * [serenade/custom-commands](https://github.com/serenadeai/custom-commands/tree/master/applications)
 * [ryanpeach/my-serenade](https://github.com/ryanpeach/my-serenade)
 
-# Slack
+## Slack
 
-# MS Teams
+## MS Teams
 
-# Vim
+## Vim
 
-# Zoom
+## Zoom
 
-# VS Code
+## VS Code
 
-## Github Copilot
-
-* [ryanpeach/my-serenade](https://github.com/ryanpeach/my-serenade)
-
-# JavaScript
-
-## General
+### Github Copilot
 
 * [ryanpeach/my-serenade](https://github.com/ryanpeach/my-serenade)
 
-## Serenade
+# Languages 
+## JavaScript
+
+### General
 
 * [ryanpeach/my-serenade](https://github.com/ryanpeach/my-serenade)
 
-## React
+### Serenade
+
+* [ryanpeach/my-serenade](https://github.com/ryanpeach/my-serenade)
+
+### React
 
 * [serenade/custom-commands](https://github.com/serenadeai/custom-commands/tree/master/applications)
 
-# Python
+## Python
 
-## Flask
-
-* [serenade/custom-commands](https://github.com/serenadeai/custom-commands/tree/master/applications)
-
-## Django
+### Flask
 
 * [serenade/custom-commands](https://github.com/serenadeai/custom-commands/tree/master/applications)
 
-# Linux
+### Django
 
 * [serenade/custom-commands](https://github.com/serenadeai/custom-commands/tree/master/applications)
 
-# Mac
+# System
+## Linux
+
+* [serenade/custom-commands](https://github.com/serenadeai/custom-commands/tree/master/applications)
+
+## Mac
 
 * [serenade/custom-commands](https://github.com/serenadeai/custom-commands/tree/master/applications)
 * [ryanpeach/my-serenade](https://github.com/ryanpeach/my-serenade)
 
-# Mouse
+## Mouse
 
 * [serenade/custom-commands](https://github.com/serenadeai/custom-commands/tree/master/applications)
 
-# Ubuntu
+## Ubuntu
 
 * [serenade/custom-commands](https://github.com/serenadeai/custom-commands/tree/master/applications)
 
-# Windows
+## Windows
 
 * [serenade/custom-commands](https://github.com/serenadeai/custom-commands/tree/master/applications)
 
