@@ -95,5 +95,9 @@ A list of custom resources for your serenade config. Please contribute.
 
 * [serenade/custom-commands](https://github.com/serenadeai/custom-commands/tree/master/applications)
 
+# VS Code
 
+## Github Copilot
+
+* [ryanpeach/my-serenade](https://github.com/ryanpeach/my-serenade)
 
